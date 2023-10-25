@@ -1,4 +1,4 @@
-# Ludo-Star 2 
+# Ludo-Titan premium 
 > unlimited coins 🪙🪙
 
 install-open-permission-enable
